@@ -30,7 +30,7 @@ The allocator is based on custom memory zones and metadata blocks, with a focus 
 
 ### Build
 
-A Makefile is provided to compile the allocator as a shared library:
+To compile the project, first navigate to the `malloc` directory, then run:
 
 ```bash
 make
